@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=mefamina&color=blueviolet)
-![](https://komarev.com/ghpvc/?username=mefamina)
+ <a href="#">
+    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>  
+
