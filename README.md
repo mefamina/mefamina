@@ -1,5 +1,5 @@
 
-![Header](./[https://github.com/mefamina/mefamina/blob/main/github-header-image%20(1).png?raw=true])
+![Header](./[https://github.com/mefamina/mefamina/blob/main/github-header-image%20(1).png])
 
 <!--
 **mefamina/mefamina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
