@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=mefamina&color=blueviolet)
+
+<a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="Unity" style="vertical-align:top margin:6px 4px">
+  </a>
  <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/unity.svg" alt="Unity" style="vertical-align:top margin:6px 4px">
   </a>  
