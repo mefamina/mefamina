@@ -1,4 +1,4 @@
-https://github.com/mefamina/mefamina/blob/main/header.png?raw=true
+/header.https://github.com/mefamina/mefamina/blob/main/header.png?raw=true
 
 ### Hi there 👋
 
