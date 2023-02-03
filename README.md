@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![](https://komarev.com/ghpvc/?username=mefamina&color=blueviolet)
+--> 
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=arda.b.arduc)](https://medium.com/@arda.b.arduc)
 
 <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="Unity" style="vertical-align:top margin:6px 4px">
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="LinkedIn" style="vertical-align:top margin:6px 4px">
   </a>
   
-
+![](https://komarev.com/ghpvc/?username=mefamina&color=blueviolet)
